@@ -1,6 +1,6 @@
 [
   {
-    "image": "./media/images/britney_spears.jpg",
+    "image": "britney_spears.jpg",
     "name": "britney spears",
     "net_worth": 115000000,
     "gender": "female",
