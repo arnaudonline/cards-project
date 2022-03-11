@@ -1,25 +1,23 @@
-[
-    {
-      "image": "./media/images/britney_spears.jpg",
-      "name": "britney spears",
-      "net_worth": 115000000,
-      "gender": "female",
-      "nationality": "us",
-      "occupation": [
-        "actor",
-        "author",
-        "music_video_director",
-        "record_producer",
-        "artist",
-        "dancer",
-        "television_producer",
-        "fashion_designer",
-        "entertainer",
-        "film_producer"
-      ],
-      "height": 1.63,
-      "birthdy": "1981-12-02",
-      "age": 40,
-      "is_alive": true
-    }
-]
+{
+  "image": "./media/images/britney_spears.jpg",
+  "name": "britney spears",
+  "net_worth": 115000000,
+  "gender": "female",
+  "nationality": "us",
+  "occupation": [
+    "actor",
+    "author",
+    "music_video_director",
+    "record_producer",
+    "artist",
+    "dancer",
+    "television_producer",
+    "fashion_designer",
+    "entertainer",
+    "film_producer"
+  ],
+  "height": 1.63,
+  "birthdy": "1981-12-02",
+  "age": 40,
+  "is_alive": true
+}
