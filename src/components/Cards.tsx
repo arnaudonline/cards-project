@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Image, Text } from "react-native";
 
-interface Infos {
+interface cardsInfos {
     image: string,
     name: string,
     gender: string,
@@ -13,43 +13,43 @@ interface Infos {
     occupation: string[]
 };
 
-const Cards = (props:Infos) => {
+const Cards = (infos:cardsInfos) => {
   return (
     <View>
-      <Image source={{uri: props.image}} />
+      <Image source={{uri: infos.image}} />
       <View>
-        <Text>{props.name}</Text>
+        <Text>{infos.name}</Text>
         <View>
           <View>
             <Text>Gender</Text>
-            <Text>{props.gender}</Text>
+            <Text>{infos.gender}</Text>
           </View>
           <View>
             <Text>Age</Text>
-            <Text>{props.age}</Text>
+            <Text>{infos.age}</Text>
           </View>
           <View>
             <Text>Birthday</Text>
-            <Text>{props.birthday}</Text>
+            <Text>{infos.birthday}</Text>
           </View>
           <View>
             <Text>Height</Text>
-            <Text>{props.height}</Text>
+            <Text>{infos.height}</Text>
           </View>
         </View>
         <View>
         <View>
             <Text>Nationality: </Text>
-            <Text>{props.nationality}</Text>
+            <Text>{infos.nationality}</Text>
         </View>
         <View>
             <Text>Net worth: </Text>
-            <Text>{props.net_worth}</Text>
+            <Text>{infos.net_worth}</Text>
         </View>
         </View>
         <View>
             <Text>Occupation</Text>
-            <Text>{props.occupation}</Text>
+            <Text>{infos.occupation}</Text>
         </View>
       </View>
     </View>
