@@ -21,5 +21,77 @@
     "birthdy": "1981-12-02",
     "age": 40,
     "is_alive": true
+  },
+  {
+    "name": "michael jackson",
+    "net_worth": 500000000,
+    "gender": "male",
+    "nationality": "us",
+    "occupation": [
+      "entertainer",
+      "singer-songwriter",
+      "musician",
+      "choreographer",
+      "record_producer",
+      "actor",
+      "businessperson",
+      "film_producer",
+      "dancer",
+      "film_score_composer"
+    ],
+    "height": 1.75,
+    "birthdy": "1958-08-29",
+    "age": 50,
+    "is_alive": false,
+    "death": "2009-06-25"
+  },
+  {
+    "name": "barack obama",
+    "net_worth": 70000000,
+    "gender": "male",
+    "nationality": "us",
+    "occupation": [
+      "politician",
+      "lawyer",
+      "writer",
+      "author",
+      "law_professor"
+    ],
+    "height": 1.85,
+    "birthdy": "1961-08-04",
+    "age": 60,
+    "is_alive": true
+  },
+  {
+    "name": "nicole kidman",
+    "net_worth": 250000000,
+    "gender": "female",
+    "nationality": "au",
+    "occupation": [
+      "singer",
+      "actor",
+      "film_producer"
+    ],
+    "height": 1.8,
+    "birthdy": "1967-06-20",
+    "age": 54,
+    "is_alive": true
+  },
+  {
+    "name": "adam scott",
+    "net_worth": 8000000,
+    "gender": "male",
+    "nationality": "us",
+    "occupation": [
+      "actor",
+      "film_producer",
+      "television_producer",
+      "television_director",
+      "screenwriter"
+    ],
+    "height": 1.77,
+    "birthdy": "1973-04-03",
+    "age": 48,
+    "is_alive": true
   }
 ]
