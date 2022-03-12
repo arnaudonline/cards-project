@@ -23,6 +23,7 @@
     "is_alive": true
   },
   {
+    "image": "michael_jackson.jpg",
     "name": "michael jackson",
     "net_worth": 500000000,
     "gender": "male",
@@ -46,38 +47,31 @@
     "death": "2009-06-25"
   },
   {
+    "image": "barack_obama.jpg",
     "name": "barack obama",
     "net_worth": 70000000,
     "gender": "male",
     "nationality": "us",
-    "occupation": [
-      "politician",
-      "lawyer",
-      "writer",
-      "author",
-      "law_professor"
-    ],
+    "occupation": ["politician", "lawyer", "writer", "author", "law_professor"],
     "height": 1.85,
     "birthdy": "1961-08-04",
     "age": 60,
     "is_alive": true
   },
   {
+    "image": "nicole_kidman.jpg",
     "name": "nicole kidman",
     "net_worth": 250000000,
     "gender": "female",
     "nationality": "au",
-    "occupation": [
-      "singer",
-      "actor",
-      "film_producer"
-    ],
+    "occupation": ["singer", "actor", "film_producer"],
     "height": 1.8,
     "birthdy": "1967-06-20",
     "age": 54,
     "is_alive": true
   },
   {
+    "image": "adam_scott.jpg",
     "name": "adam scott",
     "net_worth": 8000000,
     "gender": "male",
